@@ -1,1 +1,2 @@
-purushoth of github
+purushoth of git
+Git and GitHub
